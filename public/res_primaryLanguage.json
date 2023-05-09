@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "Fundable is a software as a service funding platform. Fundable is not a registered broker-dealer and does not offer investment advice or advise on the raising of capital through securities offerings. Fundable does not recommend or otherwise suggest that any investor make an investment in a particular company, or that any company offer securities to a particular investor. Fundable takes no part in the negotiation or execution of transactions for the purchase or sale of securities, and at no time has possession of funds or securities. No securities transactions are executed or negotiated on or through the Fundable platform. Fundable receives no compensation in connection with the purchase or sale of securities.",
+      "section_name": {
+        "about": "About Us",
+        "projects": "FUNDABLE",
+        "skills": "FEATURES",
+        "experience": "the startup.com platform"
+      }
+    },
+    "projects": [
+      {
+        "title": "DEMO",
+        "startDate": "2020",
+        "description": "TEST DATA",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "DEMO DATA"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "DEMO DATA"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "DEMO DATA"
+          }
+        ]
+      },
+      {
+        "title": "DEMO",
+        "startDate": "2018",
+        "description": "demo data",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "DEMO",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "DEMO FEATURES"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "DEMO FEATURES"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "DEMO FEATURES"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DEMO DATA",
+        "title": "TEMP",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "demo",
+          "demo",
+          "demo",
+          "demo",
+          "demo"
+        ]
+      },
+      {
+        "company": "DEMO DATA",
+        "title": "TEMP",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "demo",
+          "demo",
+          "demo",
+          "demo",
+          "demo"
+        ]
+      }
+    ]
+  }
